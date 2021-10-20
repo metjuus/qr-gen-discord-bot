@@ -1,6 +1,6 @@
-**Prefix:** !
+**Prefix:** Whatever you want ( default is '!' )
 
 
-- !generate  - generate a qr code
-- !ping - show the ping
-- !help - show command list
+- !create <url> - Create a QR Code.
+  - !ping - Bot ping.
+- !help - Commands.
